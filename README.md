@@ -1,4 +1,4 @@
-#Python Adventure Game
+# Python Adventure Game
 
 This is a simple terminal game written in python. 
 
@@ -10,9 +10,10 @@ This project is my solution to an assignment in udacity's program "Intro to prog
 
 ## installation
 
-The does not require installation. Run the following command in the terminal:
+This code does not require any installation. Just the following command in the terminal:
 
 ```python adventuregame.py```
 
+Enjoy the game!
 
 
